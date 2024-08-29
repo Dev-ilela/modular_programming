@@ -1,0 +1,15 @@
+C:\Users\unisanta\source\repos\TP03\TP03\bin\Debug\net6.0\TP03.exe
+C:\Users\unisanta\source\repos\TP03\TP03\bin\Debug\net6.0\TP03.deps.json
+C:\Users\unisanta\source\repos\TP03\TP03\bin\Debug\net6.0\TP03.runtimeconfig.json
+C:\Users\unisanta\source\repos\TP03\TP03\bin\Debug\net6.0\TP03.dll
+C:\Users\unisanta\source\repos\TP03\TP03\bin\Debug\net6.0\ref\TP03.dll
+C:\Users\unisanta\source\repos\TP03\TP03\bin\Debug\net6.0\TP03.pdb
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.AssemblyInfoInputs.cache
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.AssemblyInfo.cs
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.dll
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\ref\TP03.dll
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.pdb
+C:\Users\unisanta\source\repos\TP03\TP03\obj\Debug\net6.0\TP03.genruntimeconfig.cache
